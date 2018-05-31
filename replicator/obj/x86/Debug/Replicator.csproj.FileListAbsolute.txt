@@ -1,0 +1,4 @@
+C:\Users\MichaelS\Dropbox\Code\C#\Replicator\Replicator\bin\Debug\Replicator.exe
+C:\Users\MichaelS\Dropbox\Code\C#\Replicator\Replicator\bin\Debug\Replicator.pdb
+C:\Users\MichaelS\Dropbox\Code\C#\Replicator\Replicator\obj\x86\Debug\Replicator.exe
+C:\Users\MichaelS\Dropbox\Code\C#\Replicator\Replicator\obj\x86\Debug\Replicator.pdb
